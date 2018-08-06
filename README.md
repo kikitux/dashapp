@@ -12,3 +12,4 @@ then open webbrowser to
 http://localhost:8050
 ```
 
+"Drop table students"
