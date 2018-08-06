@@ -9,6 +9,6 @@ python3 /vagrant/app.py
 then open webbrowser to
 
 ```
-http://localhost123:8050
+http://localhost:8050
 ```
 
